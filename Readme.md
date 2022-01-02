@@ -1,7 +1,7 @@
 First project: 
 1) comparing between HealthCare and IT sector total revenue for the first year.
 2) developing a dashboard for a Profit and Loss Statement.
-3) creating a Financial Forecasting Model using two scenarios.
+3) creating a Financial Forecasting Model using three scenarios.
 
 the first task can be found on the PDF file, while the second and thrid task with the Excel file.
 
